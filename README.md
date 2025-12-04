@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hey, I'm Thanimate
 
-<!--
-**av-04/av-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student interested in **Data Science, Machine Learning, and Finance**.  
+I am interested in data-driven projects and exploring how AI and the problems of the financial world.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Technologies I Use
+**Languages:** Python, SQL, C/C++  
+**ML/DS:** Pandas, NumPy, Scikit-learn, Matplotlib,   
+**Databases:** MySQL  
+**Tools:** Git, Linux, Jupyter Notebook, VS Code  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+- **LinkedIn:** www.linkedin.com/in/aryaman-verma-056b902a5  
+---
+
+## 📈 Fun Stuff
+- Into **finance + AI**, F1 telemetry tools, music production & gaming 🎮  
+- Always building, always learning 🚀
