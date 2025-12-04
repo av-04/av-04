@@ -8,7 +8,7 @@ I enjoy working on data-driven projects and exploring how AI can solve real prob
 🛠️ **Tools & Technologies I Use**  
 **Languages:** Python, SQL, C/C++  
 **ML/DS:** Pandas, NumPy, Scikit-learn, Matplotlib  
-**Databases:** MySQL  
+**Databases:** MySQL,MongoDB  
 **Tools:** Git, Linux, Jupyter Notebook, VS Code  
 
 ---
