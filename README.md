@@ -21,4 +21,4 @@ LinkedIn: www.linkedin.com/in/aryaman-verma-056b902a5
 
 📈 **Fun Stuff**  
 - Into finance + AI, F1 telemetry tools, music production & gaming 🎮  
-- Always building, always learning 🚀
+- Trying to build something worth 
