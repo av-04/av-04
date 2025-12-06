@@ -10,7 +10,7 @@ I enjoy working on data-driven projects and exploring how AI can solve real prob
 **ML/DS:** Pandas, NumPy, Scikit-learn, Matplotlib  
 **Databases:** MySQL,MongoDB  
 **Tools:** Git, Linux, Jupyter Notebook, VS Code  
-**UI** Streamlit
+**UI:** Streamlit
 ---
 
 📫 **How to Reach Me**  
